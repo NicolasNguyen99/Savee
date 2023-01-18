@@ -1,0 +1,78 @@
+/* 
+  English.strings
+  Savee
+
+  Created by Nicolas Nguyen on 14.01.2023.
+  
+*/
+
+//Auth
+"Let's get started!" = "Pojďme začít!";
+"Sign up button" = "Registrovat se";
+"Log in button" = "Přihlásit se";
+
+//Signup
+"Allready have an account?" = "Už máte účet?";
+
+//Timeline
+"Expenses" = "Výdaje";
+"Expense" = "Výdaje";
+"Incomes" = "Příjmy";
+"Income" = "Příjmy";
+"Investments" = "Investice";
+"No transaction yet" = "Žádné transakce";
+
+//Investments
+"Retry" = "Zkusit znovu";
+"Previous Close" = "Předchozí uzavření";
+"Selected timestamp" = "Vybraný časový údaj";
+"Chart" = "Graf";
+"Investment" = "Investice";
+"At Close" = "Při uzavření";
+"After Hours" = "Po zavírací době";
+"Search & add" = "Vyhledejte a přidejte symbol pro zobrazení akciových kotací";
+
+//Categories
+"Create a new category" = "Vytváření nové kategorie";
+"Choose category type" = "Vybrat typ kategorie";
+"Category name" = "Název kategorie";
+"Set color of category" = "Vybrat barvu barvu kategorie";
+"Choose category icon" = "Vybrat ikonu categorie";
+"Create category" = "Vytvořit kategorii";
+
+//Transactions
+"Add transaction" = "Přidat transakci";
+"Edit transaction" = "Upravit transakci";
+"Save transaction" = "Uložit transakci";
+"Do you want to delete transaction?" = "Opravdu chcete smazat tuto transakci?";
+"Select a date" = "Vyberte datum";
+"Title" = "Název";
+"Description" = "Popis";
+"Transaction category" = "Kategorie transakce";
+
+
+
+//Dashboard
+"Timeline" = "Souhrn";
+"Investments" = "Investice";
+"More" = "Ostatní";
+
+"language" = "Jazyk";
+"more" = "Ostatní";
+"log out" = "Odhlásit se";
+"cancel" = "Zrušit";
+"profile" = "Profil";
+"categories" = "Kategorie";
+"Categories" = "Kategorie";
+"transactions" = "transakcí";
+"language" = "Jazyk";
+"currency" = "Měna";
+
+//Login
+"Log in" = "Přihlášení";
+"Email" = "Email";
+"Password" = "Heslo";
+"Don't have an account?" = "Ještě nemáte účet?";
+"Sign up" = "Registrovat se";
+"Loading" = "Načítání";
+

@@ -1,0 +1,24 @@
+/* 
+  English.strings
+  Savee
+
+  Created by Nicolas Nguyen on 14.01.2023.
+  
+*/
+
+//Auth
+"Let's get started!" = "Let's get started!";
+"Sign up button" = "Sign up";
+"Log in button" = "Log in";
+
+//Signup
+"Allready have an account?" = "Allready have an account?";
+
+"language" = "Language";
+
+"Log in" = "Log in";
+"Email" = "Email";
+"Password" = "Password";
+"Don't have an account?" = "Don't have an account?";
+"Sign up" = "Sign up";
+"Loading" = "Loading";
